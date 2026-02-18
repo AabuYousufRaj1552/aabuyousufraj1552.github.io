@@ -19,7 +19,7 @@ export const researchProjectsData: ResearchProjects[] = [
     technologies: ["Computer Vision", "Deep Learning Models", "Hierarchical Classification", "Cross Attentional Multi Task", "Metric learning", "Ensemble learning", "YOLO", "Explainable AI"],
     supervisors: ["Dr. Jannatun Noor"],
     supervisorLinks: ["https://sites.google.com/site/jannatun0abigzero/home"],
-    imageUrl: "/assets/images/research-projects/workflow.png",
+    imageUrl: "/assets/images/research-projects/workflow.PNG",
     paperUrl: "https://drive.google.com/drive/folders/1t7nSCagu1kwAk5-pIci5Xh_t_HUl7knp?usp=sharing",
   },
 ];
